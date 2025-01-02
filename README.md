@@ -1,8 +1,7 @@
 # java-simple-code
 
 public class Main {
-
-    static void myMethod(String name, int age) {
+  static void myMethod(String name, int age) {
         System.out.println(name + " " + age);
     }
     public static void main(String[] args) {
