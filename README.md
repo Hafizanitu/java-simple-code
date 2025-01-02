@@ -1,6 +1,6 @@
 # java-simple-code
 
-         public class Main {
+        public class Main {
         static void myMethod(String name, int age) {
         System.out.println(name + " " + age);
         }
