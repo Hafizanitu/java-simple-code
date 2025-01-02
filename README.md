@@ -1,10 +1,10 @@
 # java-simple-code
 
-public class Main {
-  static void myMethod(String name, int age) {
+         public class Main {
+        static void myMethod(String name, int age) {
         System.out.println(name + " " + age);
-    }
-    public static void main(String[] args) {
+        }
+        public static void main(String[] args) {
         int x = 12;
         double y = 12.34;
         //type casting
@@ -84,5 +84,5 @@ public class Main {
         myMethod("Nipu" , 4);
 
         
-    }
-}
+        }
+        }
